@@ -29,7 +29,7 @@ Drills into departmental trends, showing job satisfaction distributions, overtim
 - **Active Workforce:** 92.0% (1,353 active workers)
 - **Promotion Pipeline:** 72 employees (4.9%) eligible for immediate advancement
 - **Retrenchment/Transition List:** 117 employees (8.0%) flagged based on service criteria
-- 
+  
 ## 🛠️ Tech Stack & Methods
 - **Power BI Desktop:** Dashboard design, layout UX, custom card visuals, and slicers.
 - **DAX:** Dynamic metrics for headcount, gender percentages, and conditional flags.
